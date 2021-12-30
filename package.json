@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  },
+  "name": "avorejsapi",
+  "version": "1.0.0",
+  "description": "The AvoreJS API",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvoreHub/Avorejs-API.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "AvoreHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AvoreHub/Avorejs-API/issues"
+  },
+  "homepage": "https://github.com/AvoreHub/Avorejs-API#readme"
+}
